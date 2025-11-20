@@ -9,9 +9,9 @@ Supports adding, viewing, updating, completing, and deleting tasks.
 - SQLite3
 
 ## How to Run
-1. Save `task_manager.py` in a folder.
+1. Save `Mini Project 1.py` in a folder.
 2. Open terminal in that folder.
-3. Run `python task_manager.py`.
+3. Run `Mini Project 1.py`.
 4. Use the menu to manage tasks.
 
 ## Database Schema
