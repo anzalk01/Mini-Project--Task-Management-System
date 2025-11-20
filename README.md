@@ -1,7 +1,4 @@
-# Mini-Project--Task-Management-System
-Project Title: Design and Develop a Python Application with SQL Database. The objective of this mini-project is to apply Python programming skills and integrate SQL databases to develop a functional application.
-
-# Task Management System
+# Mini-Project-Task-Management-System
 
 ## Overview
 A simple CLI Task Management System built with Python and SQLite3.  
@@ -28,4 +25,5 @@ Table: tasks
 | created_at | TEXT    | Timestamp                   |
 
 ## Screenshots
+
 ## GitHub Repository
